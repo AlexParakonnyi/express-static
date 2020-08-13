@@ -1,0 +1,17 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "share static files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "exp-test"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "experss": "0.0.1-security"
+  }
+}
